@@ -34,7 +34,7 @@ dùng public/production:
 
 domain: nếu muốn public internet -> nếu không cần public thì ko cần cái này
 
-cloudflare -> expose n8n ra Internet mà không cần mở port
+cloudflare -> expose n8n ra Internet mà không cần mở port (dùng cho không có ip public)
 
 Tham khảo cách quản lý cloudflare: https://youtu.be/_ry_MAvZXt4?si=dhhcr56DRg9_1pHZ
 
