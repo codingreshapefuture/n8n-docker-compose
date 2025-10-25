@@ -4,7 +4,13 @@ Link video: https://youtu.be/liW_lyBcD3w
 
 ## Hướng dẫn
 
-N8n self-host docker và public domain:
+Chuẩn bị
++ server hoặc vps
++ domain
++ docker
++ cloudflare
+
+---
 
 dùng cá nhân/test:
 
