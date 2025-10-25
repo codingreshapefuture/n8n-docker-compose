@@ -1,6 +1,6 @@
 # n8n-docker-compose
 
-Link video: https://youtu.be/liW_lyBcD3w
+Link video: https://youtu.be/e5oZzo6i-lI
 
 ## Hướng dẫn
 
